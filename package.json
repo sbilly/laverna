@@ -19,7 +19,7 @@
     "finalhandler": "^0.4.1",
     "glob": "^7.0.3",
     "minimist": "^1.2.0",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "serve-static": "^1.10.3"
   },
   "devDependencies": {
